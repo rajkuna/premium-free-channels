@@ -125,7 +125,7 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1 ch-id="SONY TV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN) VPN
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
-#EXTINF:-1 ch-id=" 1 SONY SAB HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_576/PORTRAIT/o4akKNIp.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN) VPN
+#EXTINF:-1 ch-id=" 1 SONY SAB HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_576/PORTRAIT/o4akKNIp.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",1 SONY SAB HD (IN) VPN
 http://216.144.250.174/S0ny_Sab_HD/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR PLUS (UK) VPN
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
@@ -187,7 +187,7 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 ch-id="SONY TV HD (IN)" tvg-logo="https://desitvflix.site/contentData/tvshows/images/logos/Sony%20TV.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY TV HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ch-id=" 2 SONY SAB HD (IN)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c3ed8e54424399.Y3JvcCw2MjQsNDg4LDI4Niw4MQ.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB HD (IN)
+#EXTINF:-1 ch-id=" 2 SONY SAB HD (IN)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c3ed8e54424399.Y3JvcCw2MjQsNDg4LDI4Niw4MQ.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS", 2 SONY SAB HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ch-id="SONY BBC EARTH (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_773/PORTRAIT/qrQ8Ti1k.png"group-title="INFORMATION / WILDLIFE CHANNELS",BBC EARTH HD (IN)
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -465,7 +465,7 @@ http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY MIX (IN)" tvg-logo="https://i.imgur.com/gzRNB25.jpg" group-title="MUSIC / YOUTH CHANNELS",SONY MIX (IND)
 http://103.205.133.42:1935/local/sony_mix_720/chunklist.m3u8
-#EXTINF:-1 ch-id=" 3 SONY SAB (IN)" tvg-logo="https://www.mxmindia.com/wp-content/uploads/2019/08/sony-sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB (IND)
+#EXTINF:-1 ch-id=" 3 SONY SAB (IN)" tvg-logo="https://www.mxmindia.com/wp-content/uploads/2019/08/sony-sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS", 3 SONY SAB (IND)
 http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
 #EXTINF:-1 ch-id="SONY SIX (IN)" tvg-logo="https://toppng.com/uploads/preview/sony-six-hd-sony-ten-1-logo-11563171250vpgsq2y04z.png" group-title="SPORTS CHANNELS",SONY SIX (IND)
 http://103.205.133.42:1935/local/sony_six_720/chunklist.m3u8
@@ -605,7 +605,7 @@ http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES HD (ME)" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",STAR MOVIES HD (IND)
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
-#EXTINF:-1 ch-id=" 4 SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY SAB (IND)
+#EXTINF:-1 ch-id=" 4 SONY SAB (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS", 4 SONY SAB (IND)
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 #EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/Sony_Six_HD.jpg" group-title="SPORTS CHANNELS",SONY SIX HD (IND)
 http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
